@@ -1,0 +1,6 @@
+{
+  "name": "CarCity Web - Telemetria & Proteção Automotiva",
+  "description": "Plataforma completa de telemetria veicular IoT, proteção veicular, monitoramento de frotas, modo pânico, mapa de riscos e gestão B2B com controle de acesso RBAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
